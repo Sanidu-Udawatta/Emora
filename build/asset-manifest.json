@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e852b17.css",
+    "main.js": "/static/js/main.754d739f.js",
+    "static/js/404.d7e3a1c6.chunk.js": "/static/js/404.d7e3a1c6.chunk.js",
+    "static/js/27.9d66377b.chunk.js": "/static/js/27.9d66377b.chunk.js",
+    "static/media/animate-robot.gif": "/static/media/animate-robot.749031fbd9853d73708f.gif",
+    "static/media/DrMihir.jpg": "/static/media/DrMihir.6722061ff5f904655f47.jpg",
+    "static/media/Lato-Light.ttf": "/static/media/Lato-Light.c7400fcad9e48ca9043f.ttf",
+    "static/media/Lato-Bold.ttf": "/static/media/Lato-Bold.636be8de934918e38ed9.ttf",
+    "static/media/Lato-Thin.ttf": "/static/media/Lato-Thin.5a60dde25d817751d590.ttf",
+    "static/media/fear.svg": "/static/media/fear.fc94cf5e3ca5a13367499249645d5e5b.svg",
+    "static/media/surprised.svg": "/static/media/surprised.47daf14fddeac91348713b7697f50e9c.svg",
+    "static/media/sad.svg": "/static/media/sad.e9e27e0ccde0bdec44aa8b5a614a3bf3.svg",
+    "static/media/happy.svg": "/static/media/happy.000e8950d9a5113932a6eded971a3bf4.svg",
+    "static/media/disgusted.svg": "/static/media/disgusted.5fb75d8fb210c21abd7efb0a372fdcd0.svg",
+    "static/media/EmoraNew.png": "/static/media/EmoraNew.1d172fa533f38c6f72b5.png",
+    "static/media/angry.svg": "/static/media/angry.aa95eb2f1d13f342fe862f05bd3e1b46.svg",
+    "static/media/neutral.svg": "/static/media/neutral.5cdb04272bc6c7a2508abe34280dad93.svg",
+    "static/media/close.png": "/static/media/close.2fce6214b7c60c745aa6.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.1e852b17.css",
+    "static/js/main.754d739f.js"
+  ]
+}
